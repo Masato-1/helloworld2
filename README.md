@@ -25,8 +25,8 @@ Things you may want to cover:
 
 # Ruby on Rails Tutorial
 
-## "hello, world!"
+## "¡Hola, mundo!"
 
 This is the first application for the
 [*Ruby on Rails Tutorial*](https://railstutorial.jp/)
-by [Michael Hartl](http://www.michaelhartl.com/). Hello, world!
+by [Michael Hartl](http://www.michaelhartl.com/). ¡Hola, mundo!
